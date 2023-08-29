@@ -87,7 +87,7 @@ At second declare service:
 
 You can just clone this application and enable/disable MyAccessibilityService:
 
-![nable/disable MyAccessibilityService]([docs/Screenshot_MyAccessibilityService.png])
+![nable/disable MyAccessibilityService](docs/Screenshot_MyAccessibilityService.png)
 *Where is the memory leak*
 
 **Leak Canary**
